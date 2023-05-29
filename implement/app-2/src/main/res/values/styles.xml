@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:colorPrimary">#ff0000</item>
+        <!-- Secondary brand color. -->
+        <item name="android:colorSecondary">#ff0000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#ff0000</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
